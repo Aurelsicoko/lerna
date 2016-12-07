@@ -1,0 +1,8 @@
+{
+  "name": "testing-lerna-router",
+  "version": "0.0.1",
+  "dependencies": {
+    "jest": "^17.0.3",
+    "lodash": "^4.17.2"
+  }
+}
