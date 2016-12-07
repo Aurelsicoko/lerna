@@ -1,6 +1,6 @@
 {
   "name": "testing-lerna-core",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {
     "babel": "^6.5.2",
     "testing-lerna-router": "^0.0.1"
