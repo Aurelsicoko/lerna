@@ -1,6 +1,6 @@
 {
   "lerna": "2.0.0-beta.30",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "changelog": {
     "repo": "Aurelsicoko/lerna",
     "labels": {
@@ -12,5 +12,5 @@
       "tag: documentation": ":memo: Documentation",
       "tag: internal": ":house: Internal"
     }
-  },
+  }
 }
